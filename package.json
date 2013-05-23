@@ -38,9 +38,5 @@
   "engines": {
     "node": ">=0.1.9"
   },
-  "main": {
-    "./lib/fetch-url.js"
-  },
-  "main": "./lib"
+  "main":  "./lib/fetch-url.js"
 }
-
