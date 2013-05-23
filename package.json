@@ -1,0 +1,46 @@
+{
+  "name": "fetch-url",
+  "version": "1.0.0",
+  "description": "Utility for fetching URL.",
+  "keywords": [
+    "scraper",
+    "scraping",
+    "web",
+    "url"
+  ],
+  "author": "Ted Benson",
+  "maintainers": [
+    {
+      "name": "Ted Benson",
+      "email": "eob@csail.mit.edu",
+      "url": "http://www.edwardbenson.com/"
+    }
+  ],
+  "bugs": {
+    "email": "eob@csail.mit.edu",
+    "url": "https://github.com/cts/fetch-url/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/cts/fetch-url/blob/master/LICENSE.txt"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/cts/fetch-url.git"
+  },
+  "dependencies": {
+    "underscore": "*",
+    "request": "*",
+    "jsuri": "*"
+  },
+  "engines": {
+    "node": ">=0.1.9"
+  },
+  "main": {
+    "./lib/fetch-url.js"
+  },
+  "main": "./lib"
+}
+
