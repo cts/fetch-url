@@ -1,6 +1,6 @@
 {
   "name": "fetch-url",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Utility for fetching URL.",
   "keywords": [
     "scraper",
